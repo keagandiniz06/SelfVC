@@ -1,1 +1,5 @@
 data/
+models/
+nemo_experiments/HifiGan
+src/lightning_logs
+src/nemo_experiments
